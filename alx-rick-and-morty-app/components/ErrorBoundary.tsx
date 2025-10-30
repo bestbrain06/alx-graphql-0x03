@@ -1,3 +1,6 @@
+import React from "react";
+import * as Sentry from "@sentry/react";
+
 interface State {
   hasError: boolean;
 }
